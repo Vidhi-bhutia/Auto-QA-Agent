@@ -1,0 +1,4 @@
+{
+  "name": "AutoQA Agent",
+  "description": "An autonomous QA agent that generates test cases and Selenium scripts from project documentation and HTML."
+}
